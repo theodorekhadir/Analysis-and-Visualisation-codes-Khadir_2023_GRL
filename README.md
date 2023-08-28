@@ -1,4 +1,4 @@
-# submission_2023
+# GRL_2023_Khadir
 
 Codes for the analysis used for the manuscript: "Sink, source or something in-between? Net effects of precipitation on aerosol particle populations"
 
